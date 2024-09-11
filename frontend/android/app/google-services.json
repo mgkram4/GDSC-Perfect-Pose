@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987251277271",
+    "project_id": "gdsc-perfect-pose",
+    "storage_bucket": "gdsc-perfect-pose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987251277271:android:8fa977d18a897cdf8f5f92",
+        "android_client_info": {
+          "package_name": "com.perfectPose.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqj7oLOsERFw28d4DvsqmbXK3jKYQvwK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
